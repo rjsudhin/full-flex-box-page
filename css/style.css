@@ -110,10 +110,11 @@ ul {
     padding: 15px 20px;
 }
 
-@media (max-width: 758px) {
+@media (max-width: 740px) {
     .header .container {
         flex-direction: column;
         padding: 2em;
+        text-align: center;
     }
 
     .boxes .container {
